@@ -116,6 +116,10 @@ footer img {
 		margin-bottom: 130px;
 	}
 
+	#end-msg {
+		margin-bottom: 10em;
+	}
+
 	footer {
 		background-position: bottom;
 		background-repeat: repeat-x;
